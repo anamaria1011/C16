@@ -1,4 +1,4 @@
-package co.com.ps.c10;
+/*package co.com.ps.c10;
 import org.apache.log4j.*;
 
 
@@ -15,4 +15,4 @@ public class Log2 {
         logger.debug("Este es un mensaje de log de nivel DEBUG");
         logger.trace("Este es un mensaje de log de nivel TRACE");
     }
-}
+}*/

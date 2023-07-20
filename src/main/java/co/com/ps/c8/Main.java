@@ -1,6 +1,6 @@
 package co.com.ps.c8;
 
-public class Perro {
+/*public class Perro {
 
     String raza;
     int edad;
@@ -16,4 +16,4 @@ public class Perro {
     }
 
 
-}
+}*/

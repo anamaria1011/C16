@@ -5,7 +5,6 @@ public class Animal {
     boolean tienenPatas;
 
     boolean tienenOjos;
-
     public void cazar(){
 
 

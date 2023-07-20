@@ -1,6 +1,6 @@
 package co.com.ps.c9;
 
-public class Main {
+public class main {
 
     public static void main(String[] args) {
         Perro perro = new Perro();
@@ -26,3 +26,4 @@ public class Main {
         System.out.println("Por aca paso el codigo 5");
     }
 }
+

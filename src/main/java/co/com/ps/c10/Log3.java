@@ -1,4 +1,4 @@
-package co.com.ps.c10;
+/*package co.com.ps.c10;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,4 +14,4 @@ public class Log3 {
         logger.debug("Este es un mensaje de log de nivel DEBUG");
         logger.trace("Este es un mensaje de log de nivel TRACE");
     }
-}
+}*/
