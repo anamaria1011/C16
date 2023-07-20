@@ -1,2 +1,5 @@
-package co.com.ps.c11;public enum DiasSemana {
+package co.com.ps.c11;
+
+public enum DiasSemana {
+
 }

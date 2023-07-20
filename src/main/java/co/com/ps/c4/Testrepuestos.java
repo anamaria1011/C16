@@ -1,6 +1,6 @@
-package co.com.ps.c8;
+package co.com.ps.c4;
 
-public class Main{
+public class Testrepuestos {
 
     public static void main(String[] args) {
 
