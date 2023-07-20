@@ -1,9 +1,13 @@
 package co.com.ps.c9;
 
 public class Animal {
-
     boolean esServivo;
+    boolean tienenPatas;
 
-    //public void cazar;
+    boolean tienenOjos;
 
+    public void cazar(){
+
+
+    }
 }

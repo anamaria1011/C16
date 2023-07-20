@@ -1,4 +1,4 @@
-package co.com.ps.C7;
+package co.com.ps.c7;
 
 public class WhileAndDoWhile {
     public static void main(String[] args) {
